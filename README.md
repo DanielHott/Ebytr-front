@@ -1,5 +1,7 @@
 # Teste Ebytr (Front-end)
 
+### O back-end desta aplicação está em https://github.com/DanielHott/Ebytr-back
+
 Esta aplicação foi desenvolvida para um teste técnico onde consiste na criação de uma plataforma para controle de tarefas.
 
 
